@@ -1,4 +1,4 @@
-# Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
+# Aprenda Kotlin Com Exemplos: Desafios
 
 Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
 
@@ -6,5 +6,5 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 
 
 ```kotlin
-TODO("Crie uma solução em Koltin abstraindo esse domínio")
+TODO("Nesse repositório, se encontram os desafios propostos pela DIO.me para o bootcamp de backend kotlin com java")
 ```
