@@ -1,6 +1,6 @@
 class Product(val name: String, val price: Double, val quantity: Int)
 
-class CustomOrder private constructor(
+class CustomOrder(
   val customerName: String,
   val products: List<Product>,
   val total: Double,
